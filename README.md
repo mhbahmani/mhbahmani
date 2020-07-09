@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Mohammad Hosein Bahmani. I'm currently studying computer engineering at [sharif university of technology](http://www.sharif.ir/web/en/) and working as bakc-end developer at Roo Be Rah.
+Here, you can see my open-source projects.
+* Contact me: mhbahmani79@gmail.com
 <!--
 **mhbahmani/mhbahmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
