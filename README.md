@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Mohammad Hosein. I'm currently studying computer engineering at [sharif university of technology](http://www.sharif.ir/web/en/) and working as bakc-end developer at Roo Be Rah.
+My name is Mohammad Hosein. I'm currently studying computer engineering at [sharif university of technology](http://www.sharif.ir/web/en/).
 Here, you can see my open-source projects.
 * Contact me: mhbahmani79@gmail.com
 * You can find me on [Twitter](https://twitter.com/mh_bahmani)!
