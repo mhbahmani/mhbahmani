@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-My name is Mohammad Hosein. I'm currently studying computer engineering at [sharif university of technology](http://www.sharif.ir/web/en/).
-Here, you can see my open-source projects.
+I'm a student and infrastructure and devops enthusiastic!
 * Contact me: mhbahmani79@gmail.com
-* You can find me on [Twitter](https://twitter.com/mh_bahmani)!
+* Find me on [Linkedin](https://www.linkedin.com/in/mohammad-hosein-bahmani-ab6b7911b/)
 <!--
 **mhbahmani/mhbahmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
